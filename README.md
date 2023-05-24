@@ -1,0 +1,2 @@
+# JavaScript_ES6_SpreadOperatorPractice
+Created with CodeSandbox
